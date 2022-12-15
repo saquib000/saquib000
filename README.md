@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saquib000
 - 👀 I’m interested in Data Science, Back-end devlopment, Blockchain technology and the wonderfull world of open source.
 - 🌱 I’m currently learning backend development with Flask in Python.
-- 💞️ I’m looking to collaborate on Dara science/ML projects.
+- 💞️ I’m looking to collaborate on Data science/ML projects.
 - 📫 How to reach me saxib.yt+github@gmail.com
 
 <!---
