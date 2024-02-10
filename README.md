@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Back-end devlopment, Blockchain technology and the wonderfull world of open source.
 - 🌱 I’m currently learning backend development with Flask in Python.
 - 💞️ I’m looking to collaborate on Data science/ML projects.
-- 📫 How to reach me saxib.yt+github@gmail.com
+- 📫 How to reach me saxib.yt@gmail.com
 - 🏫 I'm going to graduate with a BS in Data Science from IIT Madras
 
 <!---
