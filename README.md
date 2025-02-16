@@ -48,7 +48,7 @@
 
 ## 🎨 Profile Banner
 
-![Your Banner Image](URL_of_your_image)
+![Your Banner Image](https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=612x612&w=0&k=20&c=ijjq-DLNxIaPuGvIX8k06IZxMAjGpyJeboaV_byCX9k=)
 
 ## 🔗 Connect with Me
 
