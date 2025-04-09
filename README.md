@@ -13,7 +13,7 @@
           <li>🔭 I’m currently working on <strong>AI and Full Stack projects</strong></li>
           <li>🌱 I’m currently learning <strong>Data Science, ML, AI, Full stack web development</strong></li>
           <li>👯 I’m looking to collaborate on <strong>DS/AI/ML research (paper or project)</strong></li>
-          <li>📫 How to reach me: <strong>saxib.yt@gmail.com</strong></li>
+          <li>📫 How to reach me: <strong>msaquib124@gmail.com</strong></li>
           <li>⚡ Fun fact: <strong>I ingested petrol once</strong></li>
         </ul>
       </td>
